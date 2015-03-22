@@ -9,3 +9,4 @@ git is fress software distributed under the GPL
 
 Git has a mutable index called stage
 
+git tracks changes
