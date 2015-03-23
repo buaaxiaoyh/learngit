@@ -12,4 +12,3 @@ Git has a mutable index called stage
 git tracks changes
 
 Git tracks changes of files
-add new merge
